@@ -1,0 +1,27 @@
+[HLRY7]
+A3=~h~*SOUND OF ALARM GOING ON*
+B10=~g~You have found the documents you need. Now ~h~leave the building~g~.
+B11=~g~Head to the ~p~courtyard ~g~across the street and leave the police uniform and documents there.
+B2=~g~Go to the ~p~Vice City Police Department~g~.
+B3=~g~Find Hilary's case.
+B4=~g~This is your chance to get the ~p~key ~g~to sheriff's desk!
+B5=~g~You have the key. Now find the correct ~p~desk~g~.
+B6=~g~There are too many cops here. You need to figure out how to distract them.
+B7=~g~Set fire to a ~p~bucket of trash~g~ to trigger the fire alarm.
+B8=~g~The building is empty now. Head back to the ~p~main hall~g~ and find the desk you need before the firefighters arrive.
+B9=~g~The ~r~FBI ~g~is here! Find the ~p~desk ~g~you need, take case and get out of there!
+C1=~r~The key doesn't fit. Keep looking!
+C2=~g~You found a Revolver and 2 magazines for it!
+F1=~r~You burned the police uniform!
+F2=~r~The alarm was raised!
+F3=~r~You didn't have time to get out of the police station!
+I1=Face the table and hold ~h~~k~~PED_SPRINT~ ~w~or ~h~~k~~PED_LOCK_TARGET~ ~w~to open the drawer.
+MA001=~h~Have you decided to become a peace officer, Mr. Vercetti?
+MA011=~h~I am looking for sheriff.
+MA012=~h~He's in the shower at the moment, you can wait here.
+MA021=~h~Surprise, little bastard! We've tracked you down!
+MA031=~h~She said she was 16!
+MA032=~h~I've come for my buddy! He is not guilty!
+MA033=~h~Hey, you're after me!
+MNAME=Wolf In Sheep's Clothing - Part 2
+XXX=Insert your text here

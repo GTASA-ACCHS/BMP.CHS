@@ -1,0 +1,15 @@
+[TMNTR]
+A1=~h~Get in the ~y~Topfun van!
+A2=~h~Drive to one of the ~p~starting points
+A3=THREAT ELIMINATED: $~1~
+A4=~h~Eliminate all ~r~criminals~h~ in the area
+A5=~h~Criminals are using signal jammers!
+A6=~h~This group is eliminated. Chase down ~r~another one!
+B1=POINTS:
+B2=BATTERY:
+B3=HEALTH:
+B4=~g~You have ~h~~1~~g~ seconds to get back in the ~y~Topfun van~g~!
+F1=~r~The van is wrecked!
+G1=~g~Toyminator Mission Complete! Bonus +50% additional reward money
+MNAME=Toyminator
+XXX=Insert your text here

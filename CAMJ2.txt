@@ -1,0 +1,25 @@
+[CAMJ2]
+B1=~g~Drive to the ~p~place
+B2=~g~Get rid of the ~h~cops~g~!
+B3=~g~Drive Cam ~p~home
+B4=~g~Keep the car under the ~y~Helicopter ~g~and catch at least ~h~6 ~g~boxes
+C1=BOXES:
+F1=~r~Cam is dead!
+F2=~r~Cam's car is wrecked!
+F3=~r~You didn't collect enough boxes!
+F4=~r~You brought the cops to Cam's lair!
+MA001=~h~Cam! Is there any job?
+MA002=~h~Hello Tommy. The mafia radioed that a helicopter with goods was due to fly out any minute.
+MA003=~h~I just need a partner to collect the goods.
+MA004=~h~Wanna drive?
+MA011=~h~The helicopter will arrive soon. Let's go a little further north.
+MA012=~h~I see the heli! Follow it, I will catch the boxes!
+MA021=~h~I caught one!
+MA022=~h~And another one!
+MA023=~h~Damn! The cops are following us!
+MA024=~h~Just two boxes remain!
+MA025=~h~One more!
+MA026=~h~That's enough! Drive back to the garage!
+MA031=~h~That's not enough Tommy..
+MNAME=Stork Chase
+XXX=Insert your text here

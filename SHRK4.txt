@@ -1,0 +1,23 @@
+[SHRK4]
+A1=~h~There are two Cubans in the parking lot
+A4=~h~This place is closed and well guarded. Find a way to get in there!
+B1=~g~You have ~h~7 minutes~g~ to clear ~r~4 Cuban bases~g~ in downtown
+B11=~g~Get in the ~y~sweets van
+B12=~g~Park the van at the ~p~marked location
+B2=~g~Eliminate all ~r~Cubans
+B3=~g~The next base is near ~p~Hyman Condo
+B4=~g~A small ~r~group of Cubans~g~ was spotted north of the pizzeria
+B5=~g~The ~p~last base~g~ is across the street.
+B6=~g~The gates are closed. Walk around from the ~h~hospital side~g~ - there should be an entrance
+F1=~r~Time's up!
+MA001=~h~It's time for another quick strike!
+MA002=~h~The Cubans have several bases in Downtown. We need to destroy them.
+MA003=~h~You'll need something powerful. Take this.
+MA004=~h~Deal with the Cubans before they bring in reinforcements.
+MA005=~h~Then come back here, we have more things to do.
+MA006=~h~Dave, stop lying here! Put on your pants and get busy!
+MA021=~h~Well that was surprisingly easy..
+MA022=~h~Me and my big mouth..
+MNAME=Cleaning the Town - Part 2
+R1=~g~Sweets van bonus: +$~1~
+XX=Insert your text here

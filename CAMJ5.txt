@@ -1,0 +1,23 @@
+[CAMJ5]
+A3=~h~The last package is on the roof!
+A5=~h~Get to the helicopter to escape!
+B1=~g~More ~y~drugs ~g~are located in the park in Vice Point. Make sure you get there first!
+B2=~g~Pick up the second ~y~package
+B3=~g~Fly to a ~p~safe place
+B4=~g~Get in the ~y~helicopter
+B5=~g~Pick up the last ~y~package
+B6=~g~Get back to the roof! ~h~~1~ seconds
+F1=~r~This was your only chance for salvation!
+F2=~r~You couldn't get away from the cops!
+MA001=~h~Tommy, there is another drop. This time in Vice Point.
+MA002=~h~Be careful, there is a police department nearby, the cops can spot the goods at any moment.
+MA003=~h~I recommend getting a couple of guns.
+MA011=~h~Police! Stop immediately or we will shoot!
+MA012=~h~Spread out on the roof!
+MA021=~h~The target is trying to escape!
+MA022=~h~Go! Go! Go!
+MA023=~h~Defensive positions!
+MA024=~h~Stop him!
+MNAME=Sky Drop - Part 2
+R1=~g~Eliminator bonus: +$~1~
+XXX=Insert your text here

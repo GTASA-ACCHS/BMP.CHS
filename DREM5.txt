@@ -1,0 +1,25 @@
+[DREM5]
+B1=~g~Get rid of the ~r~bikers
+B2=~g~Check the barn for ~r~bikers
+B3=~g~Jump over the ~p~pile of trash
+B4=~g~Get in the ~y~Patriot
+B5=~g~Get in the ~y~Firetruck
+B6=~g~Drive back to ~p~Phil's Place
+B7=~g~Get in the ~y~Firetruck
+B8=~g~Use ~h~water cannon~g~ to extinguish all ~r~fires~g~ in the area
+C1=EXPLOSION:
+F1=~r~It's all burned to the ground...
+F2=~r~You needed that fire truck...
+F3=~r~You couldn't leave this nightmare...
+MA001=~h~Cool place, we can have a good time here.
+MA002=~h~Who the hell dared to take Phil's place?!
+MA011=~h~Take that, you damn pigs!
+MA012=~h~Get out of my place!
+MA013=~h~You picked the wrong place, fools!
+MA014=~h~Phil is coming to clean up the mess!
+MA015=~h~You disturbed Phil and you will pay for it!
+MA021=~h~Who's hiding in my barn? I'm coming for you!
+MNAME=Nightmare
+T1=Use the ~h~~k~~PED_FIREWEAPON~ ~w~button to fire water cannon
+T2=Aim water cannon using ~h~~k~~VEHICLE_TURRETLEFT~ ~w~and ~h~~k~~VEHICLE_TURRETRIGHT~
+XX=Insert your text here

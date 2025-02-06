@@ -1,0 +1,25 @@
+[BERK8]
+B1=~g~Berkley has detected a strange ~p~signal~g~. Go and check it out!
+B2=~g~Follow the ~y~car~g~!
+B3=~g~Stay close to the ~y~car~g~!
+B4=~g~Get in the ~y~Topfun van~g~!
+F1=~r~You lost control of your car!
+F2=~r~You lost the car!
+MA001=~h~What's up Berkley.
+MA002=~h~Tommy, look! I detected some strange signal.
+MA003=~h~Apparently, the source of the signal is somewhere near the police station.
+MA004=~h~Did the cops fixed the tower?
+MA005=~h~I can easily recognize cop signals. I tried to decipher this one...
+MA006=~h~here... is your name...
+MA007=~h~...and a message 'come here alone'.
+MA008=~h~Okay, I'll go take a look. Do you mind if I take the van?
+MA011=~h~I can't see anything..
+MA012=~h~Wtf?
+MA013=~h~Damn, I lost my car's signal. Need to go there and pick it up..
+MA021=~h~Tommy, have you found the source of the signal?
+MA022=~h~Not really. There's some kind of RC toy car here, I'm chasing it!
+MA023=~h~Don't let it get away!
+MA024=~h~The distance is too far, the signal is unstable!
+MA025=~h~The signal is almost gone!
+MNAME=Strange Signal - Part 1
+XXX=Insert your text here

@@ -1,0 +1,13 @@
+[SEAV1]
+A1=1
+A2=2
+A3=3
+A4=GO!!
+C1=~g~You have ~h~~1~ seconds~g~ to get back to the vehicle!
+F1=~r~Your boat is wrecked
+F2=~r~Opponent is dead
+F3=~r~You left your boat
+F4=~r~You lost the race
+G1=~h~Sea Versus 1 of 3 passed
+MNAME=Sea Versus: Race
+XX=Insert your text here

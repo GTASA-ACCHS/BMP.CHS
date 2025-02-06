@@ -1,0 +1,15 @@
+[RACES]
+B3=~g~You have ~h~~1~~g~ seconds to get back to your vehicle!
+C1=3
+C2=2
+C3=1
+C4=GO!
+C5=POS: ~1~/~1~
+C6=LAP: ~1~/~1~
+F1=~r~Your vehicle is wrecked!
+F2=~r~You couldn't win the race!
+F3=~r~You left your car!
+MNAME=Street Race ~1~
+W1=YOU HAVE WON: $~1~
+W2=New best position: ~1~
+XXX=Insert your text here

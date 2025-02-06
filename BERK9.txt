@@ -1,0 +1,27 @@
+[BERK9]
+B1=~g~Get in the ~y~Bobcat~g~!
+B2=~g~Go and find your ~y~RC Car~g~!
+B3=~g~Get out to load the ~y~RC Car~g~ into the Bobcat
+B4=CAR HEALTH:
+B5=~g~Finish this ~r~bastard~g~ before he gets to Police Station!
+B6=~g~Protect your car from ~r~explosive toys~g~!
+D2=~h~Ground threat!
+D3=~h~Rear attack!
+D4=~h~Watch the sky!
+D5=~h~Flank attack!
+D6=~h~Threat from the sea!
+F1=~r~You lost control of your car!
+F2=~r~The car is wrecked!
+F3=~r~Mikey made it to the Police Station!
+MA001=~h~I need to load this into the car..
+MA002=~h~Hey, you!
+MA003=~h~???
+MA004=~h~Do you remember me?
+MA005=~h~Mikey?
+MA006=~h~It's time for you to pay!
+MA011=~h~Oh no! A whole swarm of toy airplanes is flying here to hit me!
+MA012=~h~Thank God I have my minigun with me.
+MA021=~h~Shit!!
+MNAME=Strange Signal - Part 2
+R1=~g~Skill bonus: +$~1~
+XXX=Insert your text here

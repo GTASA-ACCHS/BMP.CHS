@@ -1,0 +1,14 @@
+[GTAM]
+A1=CAR DELIVERED: ~1~ of ~1~
+A2=~h~Pick up the clothes pickup to complete the mission and get your money
+B1=POINTS:
+B2=~g~Steal one of the ~h~target vehicles
+B3=~g~Take the car to one of the ~h~Pay N Sprays
+B4=~g~Bring the car onto one of the ~h~Packers
+B5=~g~Store the car on the ~h~Packer's ramp
+F1=~r~Your car is wrecked!
+G1=~g~Grand Theft Auto Mission Complete! Car rental fee has been reduced!
+I1=~h~The target leaves. Stop the car to make the crew get out
+I2=~h~Beware, car's crew is armed
+MNAME=Car Hijacker
+XXX=Insert your text here

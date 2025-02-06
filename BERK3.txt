@@ -1,0 +1,18 @@
+[BERK3]
+A1=~h~Toy Car Race
+A2=~h~You need to achieve at least 3rd place!
+A3=~h~Your position: ~1~
+B1=~g~Drive to the ~p~venue
+B2=~g~Get in the ~y~Topfun van~g~!
+C1=POS: ~1~/~1~
+C2=LAP: ~1~/~1~
+F1=~r~You lost control of your car!
+F2=~r~At least 3rd place, remember?
+MA001=~h~Hey Berkley. How are preparations for the tournament going?
+MA002=~h~Badly! I have urgent matters and I don't have time to go to the tournament!
+MA003=~h~Tommy, you should go instead of me!
+MA004=~h~What?! I hate RC cars!
+MA005=~h~Please! You don't have to win. Just take at least third place!
+MA006=~h~The car and its remote control are in the van. Hurry up, the tournament is about to start!
+MNAME=Toy Racer
+XXX=Insert your text here

@@ -1,0 +1,16 @@
+[DTHRG]
+A1=~g~Eliminate all ~r~riders ~g~before the ~h~timer ~g~expires!
+B1=CONTESTANTS:
+B2=~g~Time bonus: +$~1~ Combo bonus: +$~1~
+B3=COMBO ~1~
+B4=HIGHEST COMBO ~1~
+B5=~g~Flips remaining: ~h~~1~
+C1=3
+C2=2
+C3=1
+C4=GO!
+F1=~r~You have been disqualified!
+F2=~r~Time's up!
+I1=Press ~h~~k~~TOGGLE_SUBMISSIONS~ ~w~button to flip your car
+MNAME=Deathring
+XXX=Insert your text here

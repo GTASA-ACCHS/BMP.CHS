@@ -1,0 +1,17 @@
+[BERK5]
+A1=~g~Feds are patrolling in downtown. Press ~h~~k~~PED_FIREWEAPON~ ~g~to drop bombs on them!
+A3=~g~This group is eliminated. Chase down ~r~another one~g~!
+C1=BATTERY:
+C2=HEALTH:
+F1=~r~You lost control of your RC toy!
+F2=~r~Your battery is dead!
+MA001=~h~How are you doing, Berkley?
+MA002=~h~Tommy, the feds are looking for me!
+MA003=~h~I detected their radio signal. They're already in Downtown!
+MA004=~h~What?!
+MA005=~h~No time to explain! There's a modified RC plane-transformer loaded with explosives in the backyard.
+MA006=~h~Get rid of the patrolling feds before they find me!
+MNAME=Toy Bomber
+R1=~g~Skill bonus: +$~1~
+T1=Press ~h~~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~ ~w~key to switch between RC Heli/RC Plane
+XXX=Insert your text here

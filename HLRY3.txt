@@ -1,0 +1,25 @@
+[HLRY3]
+A1=~g~Drive to the ~p~underground car park~g~ and find the Sabre Turbo
+A2=~h~It's an ambush!
+A3=~h~The exit is blocked!
+A4=~h~The exit is clear!
+A6=~h~This truck is loaded with explosives
+B1=~g~Fight off the ~r~killers
+B2=~g~Get into the ~y~truck ~g~loaded with explosives
+B3=~g~Park the truck near the ~p~blockade
+B4=~g~Shoot the ~r~truck
+B5=~g~Get out of the truck
+B6=~g~Get out of here!
+B7=~g~Get in the ~y~Sabre Turbo
+C1=~g~Time bonus: +$~1~
+F1=~r~The Sabre Turbo is wrecked!
+F2=~r~The truck is wrecked!
+MA001=~h~Hey Hilary, I have good news!
+MA002=~h~Tommy! How's it going? Did you find out anything?
+MA003=~h~The manager said that your car is in the underground parking a couple of blocks from here.
+MA004=~h~I'm going to pick it up now.
+MA005=~h~Great! I am glad to hear it!
+MA011=~h~Hey you! Come here!
+MA021=~h~Wait, this isn't a Sabre Turbo..
+MNAME=Blind Trust
+XX=Insert your text here

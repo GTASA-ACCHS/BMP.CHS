@@ -1,0 +1,23 @@
+[BERK2]
+A1=~h~The police station tower is causing interference.
+A2=~h~Berkley wants you to disable the tower.
+A3=~h~Explosives were installed in the plane. Fly on a safe route so the cops don't detect you!
+B1=BATTERY LIFE:
+B2=~g~Get in the ~y~Topfun van~g~!
+B3=~g~Drive to the ~p~VCN building~g~!
+F1=~r~You lost control of your car!
+F2=~r~The battery is dead!
+MA001=~h~Hey Berkley! How it's going?
+MA002=~h~Tommy! Look! Woohoo... woohoo! This car is just cool!
+MA003=~h~Are you happy now?
+MA004=~h~Not really.
+MA005=~h~In a couple of days, a society of radio engineering enthusiasts is planning to hold a racing tournament with RC cars in Downtown.
+MA006=~h~But we have a problem - the cops recently installed some kind of powerful TV tower that was emitting strong interference all around.
+MA007=~h~If we don't get rid of this tower, then all our plans will fail.
+MA008=~h~Tommy, you have to help us. In the name of the Vice City Radio Engineering Community!
+MA009=~h~OK OK. What do we have to do?
+MA010=~h~I heard about your 'demolition skills'. Take this, it's a rigged RC plane and a map of Downtown with instructions. You know what to do.
+MA011=~h~This charge is enough to get rid of this damn tower!
+MNAME=Explosive Flight
+R1=~g~Speed bonus: +$~1~
+XXX=Insert your text here

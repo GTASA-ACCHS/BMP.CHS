@@ -1,0 +1,25 @@
+[CPCH]
+A1=3
+A2=2
+A3=1
+A4=GO!
+B1=~h~~1~ of ~1~
+B3=~g~You have ~h~~1~ seconds~g~ to get back to your ~y~vehicle~g~!
+C1=LIVES:
+C2=SPEED:
+C3=RADAR:
+C4=FLIPS:
+C5=FALL SAVES:
+F1=~r~Your vehicle is wrecked!
+F2=~r~You left your vehicle!
+F3=~r~You need to be faster!
+F4=~r~Out of lives!
+F5=~r~You need to be faster!
+F6=~r~Radar spotted you!
+F7=~r~Floor is lava!
+I1=~h~Press '~k~~TOGGLE_SUBMISSIONS~' to put the cars on its wheels
+I2=~h~For the best taxi jump, it is recommended to disable Frame Limiter (Menu>Options>Display Setup>Frame Limiter>Off)
+I3=~h~For fast movement on the water, it is recommended to enable Frame Limiter (Menu>Options>Display Setup>Frame Limiter>On)
+MNAME=Checkpoint Challenge ~1~
+W1=YOU HAVE WON: $~1~
+XXX=Insert your text here

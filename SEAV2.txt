@@ -1,0 +1,20 @@
+[SEAV2]
+A1=GO!
+B1=~g~Collect ~h~weapon boxes~g~ to equip your gunner
+B2=~g~You need to destroy the ~h~opposing team~g~. Don't leave the boat
+B3=~g~Get back to the competition area. ~h~~1~~g~ seconds
+C1=BOAT:
+C2=AMMO:
+D1=~g~One of the allied boats dropped out of the competition
+D2=~g~The boat of the rivals has been destroyed. ~h~~1~~g~ boats left
+E1=~g~Uzi +~1~
+E2=~g~MP5 +~1~
+E3=~g~Shotgun +~1~
+E4=~g~Ruger +~1~
+F1=~r~Your boat is wrecked
+F2=~r~Your partner is dead
+F3=~r~Helicopter is wrecked
+F4=~r~You left the competition area
+G1=~h~Sea Versus 2 of 3 passed
+MNAME=Sea Versus: Crossfire
+XX=Insert your text here

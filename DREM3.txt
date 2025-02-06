@@ -1,0 +1,17 @@
+[DREM3]
+B1=~g~You are too far from the ~y~heli~g~! Stay close
+B2=~g~Pick up the ~y~case
+B3=~g~Take the briefcase to ~p~Diaz's mansion
+B4=~g~Take the briefcase to ~p~Diaz's mansion pier
+B5=~g~Take the briefcase to ~p~Diaz's mansion roof
+B6=~g~Take the ~h~bike ~g~and follow the ~y~FBI helicopter
+C1=~g~Accelerate and jump onto the ~h~golf island
+F1=~r~You lost the helicopter
+F2=~r~Helicopter is wrecked
+F3=~r~You've spotted myself
+MA001=~h~Sharks are waiting on the island, it's time to complete the deal.
+MA002=~h~This guy is armed! Open fire!
+MA003=~h~He stole the briefcase! Stop him!
+MNAME=Greenfields
+R1=~g~Pacific bonus: +$~1~
+XX=Insert your text here

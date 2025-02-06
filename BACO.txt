@@ -1,0 +1,9 @@
+[BACO]
+A1=~g~Bank has sent ~r~collectors ~g~after you. ~h~Kill ~g~them or ~h~wait ~g~until the timer expires
+D1=~g~Collectors left you, but they will come for you again, be careful
+D2=~g~You killed all the collectors. It won't be long before they send others for you
+E1=COLLECTOR'S RAID
+E2=Survive bank collector's attack
+G1=YOU SURVIVED THIS RAID
+MNAME=Bank Collectors
+XX=Insert your text here

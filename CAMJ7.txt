@@ -1,0 +1,16 @@
+[CAMJ7]
+A1=~g~The ~r~Mafia ~g~is searching for ~y~Cam's house~g~. Kill them before they find it.
+A3=~g~The group is eliminated. Chase down ~r~another one~g~!
+A4=~h~Now Cam can sleep peacefully
+F1=~r~The Mafia has found Cam's house!
+MA002=~h~Tommy, is that you there?
+MA003=~h~Listen, I'm in big trouble.
+MA004=~h~It looks like the ship moored at the port belonged to some serious mafia boss.
+MA005=~h~We stole their goods, they won't just leave it like that.
+MA006=~h~They found out where I live and have already sent their people after me!
+MA007=~h~Tommy don't let them get here!
+MA011=~h~Tommy, they're close! Stop them!
+MA012=~h~They're almost here! Come here Tommy quickly!
+MA013=~h~They are approaching, Tommy!
+MNAME=The Interceptor
+XXX=Insert your text here
