@@ -1,9 +1,17 @@
 [BACO]
-A1=~g~Bank has sent ~r~collectors ~g~after you. ~h~Kill ~g~them or ~h~wait ~g~until the timer expires
-D1=~g~Collectors left you, but they will come for you again, be careful
-D2=~g~You killed all the collectors. It won't be long before they send others for you
-E1=COLLECTOR'S RAID
-E2=Survive bank collector's attack
-G1=YOU SURVIVED THIS RAID
-MNAME=Bank Collectors
+A1=~g~银行~r~派人~g~来收欠款了，~h~干掉~g~他们或者~h~等待时间结束~g~。
+D1=~g~作为老赖的你逃过一劫，但是下次他们还会来收债，务必小心。
+D2=~g~你干掉了收债人，银行很快还会派人来找你麻烦。
+E1=收债风波
+E2=躲过银行收债人的攻击
+G1=你逃过一劫
+MNAME=欠债还钱
+
+;A1=~g~Bank has sent ~r~collectors ~g~after you. ~h~Kill ~g~them or ~h~wait ~g~until the timer expires
+;D1=~g~Collectors left you, but they will come for you again, be careful
+;D2=~g~You killed all the collectors. It won't be long before they send others for you
+;E1=COLLECTOR'S RAID
+;E2=Survive bank collector's attack
+;G1=YOU SURVIVED THIS RAID
+;MNAME=Bank Collectors
 XX=Insert your text here
