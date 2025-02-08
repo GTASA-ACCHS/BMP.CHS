@@ -634,7 +634,6 @@ AXPIL26=1. M4突击步枪（子弹 x~1~）
 AXPIL27=1. Ruger突击步枪（子弹 x~1~）
 AXPIL28=1. 拉栓式狙击枪（子弹 x~1~）
 AXPIL29=1. PSG-1连发狙击枪（子弹 x~1~）
-AXPIL29=1. PSG-1 (ammo x~1~)
 AXPIL30=Insert your text here
 AXPIL31=Insert your text here
 AXPIL32=1. M60轻机枪（x~1~）
