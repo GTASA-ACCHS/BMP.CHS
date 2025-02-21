@@ -142,8 +142,10 @@ X
 
 ### 开发团队：
 - 文本润色：EnglishBen  
+[https://www.twitch.tv/english_ben](https://www.twitch.tv/english_ben)  
 - 测试人员：thedriverbest, Hatem Khaled  
 - reVC.exe优化：Cowboy69  
+[https://www.twitch.tv/english_ben](https://www.twitch.tv/english_ben)
 
 ***
 
