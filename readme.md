@@ -145,7 +145,7 @@ X
 [https://www.twitch.tv/english_ben](https://www.twitch.tv/english_ben)  
 - 测试人员：thedriverbest, Hatem Khaled  
 - reVC.exe优化：Cowboy69  
-[https://www.twitch.tv/english_ben](https://www.twitch.tv/english_ben)
+[https://libertycity.net/user/Cowboy69/](https://libertycity.net/user/Cowboy69/)
 
 ***
 
