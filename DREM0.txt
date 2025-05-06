@@ -1,6 +1,6 @@
 [DREM0]
 B1=~g~清理后院 ~r~维赛迪的人
-B10=~g~The safe has been cracked. Deal with the remaining ~r~Vercetti's men
+B10=~g~保险箱已被撬开。 去处理其余剩下 ~r~维赛迪的人
 B11=~g~杀了 ~r~汤米·维赛迪
 B12=~g~You have to stand in ~p~your place~g~, just like in the original game! ~h~~1~ seconds
 B2=~g~Go to the ~p~pier ~g~and report to Sonny about the situation
@@ -13,11 +13,11 @@ B8=~y~Crack ~g~the ~p~safe ~g~and get the money
 B9=~g~You haven't ~y~cracked ~g~the ~p~safe ~g~yet
 C1=CRACKING:
 C2=TOMMY:
-D1=~h~Secret Drowned Man found! ~1~/~1~
-F1=~r~You shouldn't have entered the main hall now!
+D1=~h~秘密溺水者被发现！ ~1~/~1~
+F1=~r~你不应该现在进入大厅！
 F2=~r~In the original game, Sonny stood in one place!
 G1=~h~Secret Drowned Man +$5000x~1~
-I1=~g~You need to get to the ~p~roof~g~ of the mansion!
+I1=~g~你需要到达豪宅的 ~p~屋顶~g~ !
 MA001=~h~咱们的小伙子在这弄了个非常牛逼的豪宅。
 MA002=~h~维赛迪负责豪宅的安全。
 MA003=~h~我们必须先除掉这里的守卫。
