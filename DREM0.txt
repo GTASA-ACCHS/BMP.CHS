@@ -1,5 +1,5 @@
 [DREM0]
-B1=~g~Clear the backyard of ~r~Vercetti's men
+B1=~g~清理后院 ~r~维塞迪的人
 B10=~g~The safe has been cracked. Deal with the remaining ~r~Vercetti's men
 B11=~g~Kill ~r~Tommy Vercetti
 B12=~g~You have to stand in ~p~your place~g~, just like in the original game! ~h~~1~ seconds
