@@ -1,7 +1,7 @@
 [DREM0]
-B1=~g~清理后院 ~r~维塞迪的人
+B1=~g~清理后院 ~r~维赛迪的人
 B10=~g~The safe has been cracked. Deal with the remaining ~r~Vercetti's men
-B11=~g~Kill ~r~Tommy Vercetti
+B11=~g~杀了 ~r~汤米·维赛迪
 B12=~g~You have to stand in ~p~your place~g~, just like in the original game! ~h~~1~ seconds
 B2=~g~Go to the ~p~pier ~g~and report to Sonny about the situation
 B3=~g~Find your way to the roof of the mansion through the ~p~maze
@@ -25,10 +25,10 @@ MA004=~h~第一组人会把后院收拾干净。
 MA005=~h~第二组将穿过迷宫到达屋顶并占领直升机停机坪。
 MA006=~h~您将前往二楼的保险箱并打开它。
 MA007=~h~那我们就来把事情办完。大家明白了吗？
-MA011=~h~Backyard cleared, Mr. Forelli.
-MA012=~h~Report to Mr. Forelli that the roof is under our control.
-MA013=~h~Take these barrels and make a barricade here...
-MA021=~h~Mmmm.. money...
+MA011=~h~后院已清理完毕，佛雷力先生。
+MA012=~h~报告佛雷力先生，后院已被我们控制。
+MA013=~h~在这里用这些桶设置路障...
+MA021=~h~额哼.. 钱...
 MA023=~h~You took fifteen years from me Sonny...
 MA024=~h~And now I'm gonna make you pay!
 MA025=~h~You still don't get it do you!
