@@ -1989,7 +1989,6 @@ GA_16=重新喷涂
 GA_19=我们对这样的不感兴趣。
 GA_1A=当你不那么忙的时候回来看看……
 GA_2=新的引擎和喷漆！警察不会认出你！
-GA_2=New engine and paint job. The cops won't recognize you!
 GA_20=We got more of these than we can shift. Sorry man, no deal.
 GA_21=You cannot store any more cars in this garage.
 GA_3=No more freebies. $100 to respray!
