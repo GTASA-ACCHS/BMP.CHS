@@ -925,7 +925,6 @@ CAR_T=Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase the Car Showroom 
 CDERROR=Error reading the Grand Theft Auto: Vice City DVD
 CHAINSA=Chainsaw
 CHASE=最高媒体关注度
-CHASE=最高媒体关注度
 CHASE1=忽视
 CHASE10=本地电视直播报道
 CHASE11=UFA今日第12页
