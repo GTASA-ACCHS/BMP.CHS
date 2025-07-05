@@ -21,6 +21,6 @@ MNAME4=资产抢夺战：激爽冰淇淋工厂
 MNAME5=资产抢夺战：考夫曼出租车行
 MNAME6=资产抢夺战：马里布俱乐部
 MNAME7=资产抢夺战：罪城港船坞
-MNAME8=资产抢夺战：脱衣舞俱乐部
+MNAME8=资产抢夺战：极点俱乐部
 MNAME9=资产抢夺战：加油站
 XXX=Insert your text here

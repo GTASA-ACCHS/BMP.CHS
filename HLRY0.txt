@@ -24,5 +24,5 @@ MA031=~h~汤米，别跟丢啦！
 MA032=~h~全速怕什么怕！芜湖！
 MA033=~h~我猜条子不会来看热闹了。
 MA036=~h~你迷路了吗，汤米？
-MNAME=重回正轨
+MNAME=说传机司
 XXX=Insert your text here
