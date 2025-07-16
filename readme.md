@@ -13,13 +13,17 @@
 |	**汉化组织**|虚无汉化组 & GTAmod中文组|
 |	**更新日期**|2025/??/??|
 
-<!-- 在Markdown中直接插入以下代码 -->
-<span style="font-family: 'Arial', sans-serif; color: #666; font-size: 14px;">
-  <i class="fas fa-users" style="color: #ff6b6b; margin-right: 5px;"></i> 访客数: <span id="busuanzi_value_site_uv"></span>
-  <i class="fas fa-eye" style="color: #4ecdc4; margin-right: 5px; margin-left: 15px;"></i> 访问量: <span id="busuanzi_value_site_pv"></span>
-</span>
+<div style="background: white; border-radius: 8px; padding: 15px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); display: inline-block; margin: 10px 0;">
+  <span style="margin: 0 10px; display: inline-flex; align-items: center;">
+    <i class="fas fa-users" style="color: #ff6b6b; margin-right: 5px;"></i>
+    <span id="busuanzi_value_site_uv"></span>
+  </span>
+  <span style="margin: 0 10px; display: inline-flex; align-items: center;">
+    <i class="fas fa-eye" style="color: #4ecdc4; margin-right: 5px;"></i>
+    <span id="busuanzi_value_site_pv"></span>
+  </span>
+</div>
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 ## 📄「前言」
 >2022年，UP主the寒秋策划汉化此MOD，同年7月，B站UP主Okami丶鬼道发布了关于此MOD的影片。  
 
