@@ -13,13 +13,6 @@
 |	**汉化组织**|虚无汉化组 & GTAmod中文组|
 |	**更新日期**|2025/??/??|
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
-</script>
-
-<span id="busuanzi_container_site_pv">
-    本站总访问量<span id="busuanzi_value_site_pv"></span>次
-</span>
-
 ## 📄「前言」
 >2022年，UP主the寒秋策划汉化此MOD，同年7月，B站UP主Okami丶鬼道发布了关于此MOD的影片。  
 
