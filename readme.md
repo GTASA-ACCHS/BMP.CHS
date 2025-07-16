@@ -1,7 +1,7 @@
 # 项目名称：侠盗猎车手罪恶都市 > 大型任务包最终版 中文化计划	
 下文中「大型任务包最终版」、「BMP」均表示「Big Mission Pack Final」模组；「ReVC」表示 罪恶都市逆向工程版本；「黑曜石汉化组」系同「虚无汉化组」存在合作关系；「创趣工作室」系为右小天所有的工作室；「虚无汉化组」系「好市民汉化组」同「剑舞汉化组」合并而成
 
-**本组坚决反对任何人、以任何形式进行游戏、模组倒卖！**
+**本组坚决反对任何人、以任何形式进行游戏、模组倒卖！包括以一切形式利用本组汉化进行收费服务！**
 
 **大型任务包汉化计划**
 <p align="right"><b>GTAmod中文组荣誉汉化</b></p>  
@@ -13,6 +13,13 @@
 |	**汉化组织**|虚无汉化组 & GTAmod中文组|
 |	**更新日期**|2025/??/??|
 
+<!-- 在Markdown中直接插入以下代码 -->
+<span style="font-family: 'Arial', sans-serif; color: #666; font-size: 14px;">
+  <i class="fas fa-users" style="color: #ff6b6b; margin-right: 5px;"></i> 访客数: <span id="busuanzi_value_site_uv"></span>
+  <i class="fas fa-eye" style="color: #4ecdc4; margin-right: 5px; margin-left: 15px;"></i> 访问量: <span id="busuanzi_value_site_pv"></span>
+</span>
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 ## 📄「前言」
 >2022年，UP主the寒秋策划汉化此MOD，同年7月，B站UP主Okami丶鬼道发布了关于此MOD的影片。  
 
@@ -61,7 +68,7 @@
 
 >**2022/11/13** 官网域名改为Mrs_Anna购买的hsmhhz.com。  
 
->**2022/12/04** 我组人员朽木自雕Ping官网时，意外发现了非官方的假冒网站xwhhz.xyz，并且该假冒网站搬运了我组人员撰写的汉化发布文章，甚至疑似倒卖汉化。  
+>**2022/12/04** 我组人员千指乱秋月Ping官网时，意外发现了非官方的假冒网站xwhhz.xyz，并且该假冒网站搬运了我组人员撰写的汉化发布文章，甚至疑似倒卖汉化。  
 
 >**2022/12/14** 我组发现该假冒网站持续搬运我组的最新文章，我组紧急发布反盗版声明。  
 
@@ -87,39 +94,39 @@
 
 >**2025/02/06** 正式开始ReVC 大型任务包最终版中文化计划。  
   		
-**今天，我们完整汉化了此MOD的最终版，并兼容ReVC。**	
+**今天，我们完整汉化了此MOD的最终版，并兼容`ReVC`。**	
 	
 ## 🎉「关于成员」
-- **首先，需特别鸣谢原 虚无汉化组 的成员，为此次中文化计划有重大贡献。**
-- **以下成员的昵称，一般为在 哔哩哔哩 所使用的用户名。**
+- **首先，需特别鸣谢原 `虚无汉化组` 的成员，为此次中文化计划有重大贡献。**
+- **以下成员的昵称，一般为在 `哔哩哔哩` 所使用的用户名。**
 	
 ### 「原虚无汉化组的参与成员」	
 |角色|成员|
 --------------|----------------
-|**汉化策划**|the寒秋	|
-|**汉化审核**|千指乱秋月		右小天|
-|**技术支持**|倾城剑舞	琳芙物语		B1ue Micr0	Lzh10_慕黑|
-|**文本翻译**|Mrs_Anna	HS_宜年		咕咕的水星	RWintheVC	Mickey元老	馒头		CJCP	天骄|
-|**文本润色**|RWintheVC	U.S.S.R.Sakula	|
-|**游戏测试**|VercettiSR	RWintheVC	火星鸽鸽子	馒头		Mr Lonely		Lzh10_慕黑|
-|**后期修正**|the寒秋		RWintheVC	右小天		Lzh10_慕黑|
-|**特别鸣谢**|Mrs_Anna	Okami丶鬼道	一只毛子球	菜菜伟|
+|**汉化策划**|[the寒秋](https://space.bilibili.com/413030840)	|
+|**汉化审核**|[千指乱秋月](https://space.bilibili.com/353378225)		右小天|
+|**技术支持**|[倾城剑舞](https://space.bilibili.com/335719840)		[琳芙物语](https://space.bilibili.com/6298851)		[布朗尼蛋糕_Official](https://space.bilibili.com/370118971)		[Lzh10_慕黑](https://space.bilibili.com/1657432204)|
+|**文本翻译**|[Mrs_Anna](https://space.bilibili.com/2058848528)	[Yee宜年](https://space.bilibili.com/407700674)		[咕咕的水星](https://space.bilibili.com/1186919887)	[RWintheVC](https://space.bilibili.com/27825653)	Mickey元老	[成精的馒头](https://space.bilibili.com/689945956)		CJCP	天骄|
+|**文本润色**|[RWintheVC](https://space.bilibili.com/27825653)	[U.S.S.R.Sakula](https://space.bilibili.com/321556600)	|
+|**游戏测试**|[VercettiSR](https://space.bilibili.com/297716904)	[RWintheVC](https://space.bilibili.com/27825653)	火星鸽鸽子	[成精的馒头](https://space.bilibili.com/689945956)		[Mr Lonely](https://space.bilibili.com/588767488)		[Lzh10_慕黑](https://space.bilibili.com/1657432204)|
+|**后期修正**|[the寒秋](https://space.bilibili.com/413030840)		[RWintheVC](https://space.bilibili.com/27825653)	右小天		[Lzh10_慕黑](https://space.bilibili.com/1657432204)|
+|**特别鸣谢**|[Mrs_Anna](https://space.bilibili.com/2058848528)	[Okami丶鬼道](https://space.bilibili.com/54712725)	[一只毛子球](https://space.bilibili.com/245882644)	[菜菜伟](https://space.bilibili.com/497003864)|
 
 - **我们也特别感谢为此次大型任务包最终版注入新动力的新成员，下面仅写出新加入成员，老成员在上文写出。**
 
 ### 「现GTAmod中文组的新参与人员」
 |角色|成员|
 |-------|--------|
-|**技术支持**|瘋人院院长	|
-|**文本处理**|mctc		LCPD-Official	推理迷4869|
-|**游戏测试**|黄桃不红温	Zxz加希洛小柴|
+|**技术支持**|[瘋人院院长](https://space.bilibili.com/51328661)	|
+|**文本处理**|[mctc](https://space.bilibili.com/388479248)		[LCPD-Official](https://space.bilibili.com/2111639873)	[推理迷4869](https://space.bilibili.com/510757576)|
+|**游戏测试**|[黄桃不红温](https://space.bilibili.com/495263922)	[Zxz加希洛小柴](https://space.bilibili.com/2027755894)|
 
 - 对于接手BMP汉化的「黑曜石汉化组」，我们同样表示鸣谢。    
 
 |角色|成员|
 |-----|-----|  
-|**汉化组长**|咕咕的水星	|  
-|**文本处理**|咕咕的水星	火星鸽鸽子|  
+|**汉化组长**|[咕咕的水星](https://space.bilibili.com/1186919887)	|  
+|**文本处理**|[咕咕的水星](https://space.bilibili.com/1186919887)	火星鸽鸽子|  
 
 
 ## 🎤「成员感言」  
@@ -142,7 +149,7 @@
 >**LCPD-Official**：本人从今年的二月份首次接触到了BMP的汉化并随之加入，时至如今也只能算是个小小新手而已。群内的各位大佬都十分耐心地向新人介绍各类事项。十分感谢能够在2025年的今天遇到与自己同样为游戏用爱发电的人们。期待各位能够开心顺利地游玩ReVC BMP！ 
 [![LCPD-2025-05-11-17-28-48.png](https://i.postimg.cc/02DxSs0L/LCPD-2025-05-11-17-28-48.png)](https://postimg.cc/XpjTMth8) 
 
->**馒头**：最开始看见闲来无事想参加，到现在新版出来，这三年很快啊，不知道说什么，可能是囿于昼夜厨房与爱了吧（笑）  
+>**成精的馒头**：最开始看见闲来无事想参加，到现在新版出来，这三年很快啊，不知道说什么，可能是囿于昼夜厨房与爱了吧（笑）  
 
 >**Zxz加希洛小柴**：[![Zxz-J-2025-05-11-16-12-56.png](https://i.postimg.cc/G3Zd92GF/Zxz-J-2025-05-11-16-12-56.png)](https://postimg.cc/23FPKCHy)
 
