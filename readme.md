@@ -87,22 +87,28 @@
 
 >**2025/02/06** 正式开始ReVC 大型任务包最终版中文化计划。  
   		
+>**2025/05/01** 实现自制汉化版作弊器。
+
+>**2025/05/25** 汉化文本翻译完毕，进入修正和校对阶段。
+
+>**2025/07/14** 所有文本完成修正，测试阶段接近尾声，进入预发布阶段。
+
 **今天，我们完整汉化了此MOD的最终版，并兼容`ReVC`。**	
 	
 ## 🎉「关于成员」
 - **首先，需特别鸣谢原 `虚无汉化组` 的成员，为此次中文化计划有重大贡献。**
-- **以下成员的昵称，一般为在 `哔哩哔哩` 所使用的用户名。**
+- **以下成员的昵称，一般为在 [哔哩哔哩](https://www.bilibili.com/?spm_id_from=333.337.0.0) 所使用的用户名。**
 	
 ### 「原虚无汉化组的参与成员」	
 |角色|成员|
 --------------|----------------
 |**汉化策划**|[the寒秋](https://space.bilibili.com/413030840)	|
-|**汉化审核**|[千指乱秋月](https://space.bilibili.com/353378225)		右小天|
+|**汉化审核**|[千指乱秋月](https://space.bilibili.com/353378225)		[右小天](https://space.bilibili.com/456075167)|
 |**技术支持**|[倾城剑舞](https://space.bilibili.com/335719840)		[琳芙物语](https://space.bilibili.com/6298851)		[布朗尼蛋糕_Official](https://space.bilibili.com/370118971)		[Lzh10_慕黑](https://space.bilibili.com/1657432204)|
-|**文本翻译**|[Mrs_Anna](https://space.bilibili.com/2058848528)	[Yee宜年](https://space.bilibili.com/407700674)		[咕咕的水星](https://space.bilibili.com/1186919887)	[RWintheVC](https://space.bilibili.com/27825653)	Mickey元老	[成精的馒头](https://space.bilibili.com/689945956)		CJCP	天骄|
+|**文本翻译**|[Mrs_Anna](https://space.bilibili.com/2058848528)	[Yee宜年](https://space.bilibili.com/407700674)		[咕咕的水星](https://space.bilibili.com/1186919887)	[RWintheVC](https://space.bilibili.com/27825653)	[Mickey元老](https://space.bilibili.com/497959560)	[成精的馒头](https://space.bilibili.com/689945956)		[CJCP](https://space.bilibili.com/474876300)	[天骄](https://space.bilibili.com/503567215)	[柚鸟秋](https://space.bilibili.com/589240180)|
 |**文本润色**|[RWintheVC](https://space.bilibili.com/27825653)	[U.S.S.R.Sakula](https://space.bilibili.com/321556600)	|
-|**游戏测试**|[VercettiSR](https://space.bilibili.com/297716904)	[RWintheVC](https://space.bilibili.com/27825653)	火星鸽鸽子	[成精的馒头](https://space.bilibili.com/689945956)		[Mr Lonely](https://space.bilibili.com/588767488)		[Lzh10_慕黑](https://space.bilibili.com/1657432204)|
-|**后期修正**|[the寒秋](https://space.bilibili.com/413030840)		[RWintheVC](https://space.bilibili.com/27825653)	右小天		[Lzh10_慕黑](https://space.bilibili.com/1657432204)|
+|**游戏测试**|[VercettiSR](https://space.bilibili.com/297716904)	[RWintheVC](https://space.bilibili.com/27825653)	[火星鸽鸽子](https://space.bilibili.com/1748313725)	[成精的馒头](https://space.bilibili.com/689945956)		[Mr Lonely](https://space.bilibili.com/588767488)		[Lzh10_慕黑](https://space.bilibili.com/1657432204)|
+|**后期修正**|[the寒秋](https://space.bilibili.com/413030840)		[RWintheVC](https://space.bilibili.com/27825653)	[右小天](https://space.bilibili.com/456075167)		[Lzh10_慕黑](https://space.bilibili.com/1657432204)|
 |**特别鸣谢**|[Mrs_Anna](https://space.bilibili.com/2058848528)	[Okami丶鬼道](https://space.bilibili.com/54712725)	[一只毛子球](https://space.bilibili.com/245882644)	[菜菜伟](https://space.bilibili.com/497003864)|
 
 - **我们也特别感谢为此次大型任务包最终版注入新动力的新成员，下面仅写出新加入成员，老成员在上文写出。**
@@ -119,7 +125,7 @@
 |角色|成员|
 |-----|-----|  
 |**汉化组长**|[咕咕的水星](https://space.bilibili.com/1186919887)	|  
-|**文本处理**|[咕咕的水星](https://space.bilibili.com/1186919887)	火星鸽鸽子|  
+|**文本处理**|[咕咕的水星](https://space.bilibili.com/1186919887)	[火星鸽鸽子](https://space.bilibili.com/1748313725)|  
 
 
 ## 🎤「成员感言」  
@@ -245,8 +251,6 @@
 >感谢「黑曜石汉化组」对汉化补丁提供维护  
 
 >感谢`GitHub`、`Cloudflare`提供网站服务 
-
->感谢gtamodx提供下载服务  
 
 >感谢MOD原作者的倾情呈现  
 

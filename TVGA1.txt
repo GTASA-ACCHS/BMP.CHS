@@ -30,6 +30,6 @@ MA035=~h~罪城之王回来了，老子我！
 MNAME=物归原主·中文组汉化
 R1=~g~出色领导奖金：+$~1~
 T1=如果你需要~h~武器或者防弹衣~w~，你可以通过电话订购。
-T2=步行时，打开背包 （~h~~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~键~w~），然后拿起“手机”并选择“买武器”选项。
+T2=步行时，打开背包（~h~~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~键~w~），然后拿起“手机”并选择“买武器”选项。
 T3=要为订单付款，请使用~h~~k~~PED_SPRINT~~w~键，付款后，快递员会把武器和防弹衣交给你！
 XX=Insert your text here
