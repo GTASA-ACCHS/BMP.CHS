@@ -108,9 +108,9 @@
 |**汉化审核**|[千指乱秋月](https://space.bilibili.com/353378225)		[右小天](https://space.bilibili.com/456075167)|
 |**技术支持**|[倾城剑舞](https://space.bilibili.com/335719840)		[琳芙物语](https://space.bilibili.com/6298851)		[布朗尼蛋糕_Official](https://space.bilibili.com/370118971)		[Lzh10_慕黑](https://space.bilibili.com/1657432204)|
 |**文本翻译**|[Mrs_Anna](https://space.bilibili.com/2058848528)	[Yee宜年](https://space.bilibili.com/407700674)		[咕咕的水星](https://space.bilibili.com/1186919887)	[RWintheVC](https://space.bilibili.com/27825653)	[Mickey元老](https://space.bilibili.com/497959560)	[成精的馒头](https://space.bilibili.com/689945956)		[CJCP](https://space.bilibili.com/474876300)	[天骄](https://space.bilibili.com/503567215)	[柚鸟秋](https://space.bilibili.com/589240180)|
-|**文本润色**|[RWintheVC](https://space.bilibili.com/27825653)	[U.S.S.R.Sakula](https://space.bilibili.com/321556600)	|
-|**游戏测试**|[VercettiSR](https://space.bilibili.com/297716904)	[RWintheVC](https://space.bilibili.com/27825653)	[火星鸽鸽子](https://space.bilibili.com/1748313725)	[成精的馒头](https://space.bilibili.com/689945956)		[Mr Lonely](https://space.bilibili.com/588767488)		[Lzh10_慕黑](https://space.bilibili.com/1657432204)|
-|**后期修正**|[the寒秋](https://space.bilibili.com/413030840)		[RWintheVC](https://space.bilibili.com/27825653)	[右小天](https://space.bilibili.com/456075167)		[Lzh10_慕黑](https://space.bilibili.com/1657432204)|
+|**文本润色**|[RWintheVC](https://space.bilibili.com/27825653)	[U.S.S.R.Sakula](https://space.bilibili.com/321556600)		[倾城剑舞](https://space.bilibili.com/335719840)|
+|**游戏测试**|[VercettiSR](https://space.bilibili.com/297716904)	[RWintheVC](https://space.bilibili.com/27825653)	[火星鸽鸽子](https://space.bilibili.com/1748313725)	[成精的馒头](https://space.bilibili.com/689945956)		[Mr Lonely](https://space.bilibili.com/588767488)		[倾城剑舞](https://space.bilibili.com/335719840)		[Lzh10_慕黑](https://space.bilibili.com/1657432204)|
+|**后期修正**|[the寒秋](https://space.bilibili.com/413030840)		[RWintheVC](https://space.bilibili.com/27825653)	[右小天](https://space.bilibili.com/456075167)		[倾城剑舞](https://space.bilibili.com/335719840)		[Lzh10_慕黑](https://space.bilibili.com/1657432204)|
 |**特别鸣谢**|[Mrs_Anna](https://space.bilibili.com/2058848528)	[Okami丶鬼道](https://space.bilibili.com/54712725)	[一只毛子球](https://space.bilibili.com/245882644)	[菜菜伟](https://space.bilibili.com/497003864)|
 
 - **我们也特别感谢为此次大型任务包最终版注入新动力的新成员，下面仅写出新加入成员，老成员在上文写出。**
