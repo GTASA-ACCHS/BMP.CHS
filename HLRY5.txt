@@ -43,5 +43,6 @@ MA042=~h~汤米，他们放我血！
 MA043=~h~我在飙血！
 MA051=~h~可算逮着你了！
 MA052=~h~别开枪！我全吐出来！
+MA053=~h~干的不错，回头见。
 MNAME=礼尚往来
 XXX=Insert your text here
