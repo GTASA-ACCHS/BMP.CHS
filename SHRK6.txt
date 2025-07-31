@@ -46,5 +46,5 @@ MA057=~h~左边来人了！
 MA058=~h~后面有追兵！
 MA059=~h~右边有埋伏！
 MNAME=蜻蜓点水
-R1=~g~技能奖励: +$~1~
+R1=~g~技能奖励：+$~1~
 XX=Insert your text here

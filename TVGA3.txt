@@ -35,5 +35,5 @@ MA053=~h~人在那儿！别让他溜了！
 MNAME=煽风点火，瓮中捉鳖，手到擒来！
 R1=~g~车辆命中奖励：+$~1~
 S1=~h~淹车奖金：~1~x$2000
-T3=按住~h~~k~~PED_SPRINT~~w~或~h~~k~~PED_LOCK_TARGET~~w~键点燃油桶。
+T3=按住~h~~k~~PED_SPRINT~~w~或~h~~k~~PED_LOCK_TARGET~~w~点燃油桶。
 XX=Insert your text here

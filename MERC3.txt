@@ -85,5 +85,5 @@ MA077=~h~先生，真是太感谢了！这可是我这个星期的第三部手�
 MNAME=购物狂魔
 R1=绅士奖金：+$~1~
 T1=你已购买的商品将会被统计在屏幕右侧的清单。
-T2=对着货架按下~h~~k~~PED_SPRINT~~w~或~h~~k~~PED_LOCK_TARGET~~w~键找唱片。
+T2=对着货架按下~h~~k~~PED_SPRINT~~w~或~h~~k~~PED_LOCK_TARGET~~w~找唱片。
 XX=Insert your text here

@@ -11,7 +11,7 @@ C3=1
 C4=GO！
 F1=~r~你被淘汰了！
 F2=~r~时间到！
-I1=按下~h~~k~~TOGGLE_SUBMISSIONS~~w~键来把你的车翻回来。
+I1=按下~h~~k~~TOGGLE_SUBMISSIONS~~w~来把你的车翻回来。
 MNAME=死亡之环
 
 ;A1=~g~Eliminate all ~r~riders ~g~before the ~h~timer ~g~expires!

@@ -36,5 +36,5 @@ MA021=~h~我们遭到攻击了，快升起锚！
 MA022=~h~狱警2号报告：未经授权的入侵警报。检查机库。
 MNAME=将军号外
 R1=~g~海战士加成：+$~1~
-T1=按~h~~k~~PED_FIREWEAPON~~w~键发射海警船的机枪。
+T1=按~h~~k~~PED_FIREWEAPON~发射海警船的机枪。
 XX=Insert your text here

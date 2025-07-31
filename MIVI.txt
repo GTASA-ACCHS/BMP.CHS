@@ -25,6 +25,6 @@ L2=定向信号追逐战
 L3=距离定位追逐战
 MNAME=迈阿密风云
 T1=使用接收器定位~h~罪犯~w~，当你~h~靠近~w~他们时，目标会被标记，追逐战将会开始。
-T2=追逐战开始时，按下~h~~k~~TOGGLE_SUBMISSIONS~~w~键切换到枪手的位置，你的搭档给你开车！
+T2=追逐战开始时，按下~h~~k~~TOGGLE_SUBMISSIONS~~w~切换到枪手的位置，你的搭档给你开车！
 T3=~g~若要切换到~h~驾驶位~g~，则按~h~~k~~PED_DUCK~。
 XXX=Insert your text here
