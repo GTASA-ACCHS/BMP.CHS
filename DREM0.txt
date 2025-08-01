@@ -46,5 +46,5 @@ MA053=~h~你的活儿只有一个！一个！！结果你还他妈搞砸了！
 MA054=~h~你的江山是我一手打下的！汤米！是我！！
 MA055=~h~汤米，当你有种腆着脸骗我的时候，你就选了你这一生最蠢的路！
 MNAME=昨日旧敌
-T1=面向保险箱并长按~h~~k~~PED_SPRINT~~w~或者~h~~k~~PED_LOCK_TARGET~~w~进行破解
+T1=面向保险箱并长按~h~~k~~PED_SPRINT~~w~或者~h~~k~~PED_LOCK_TARGET~~w~进行破解。
 XX=Insert your text here
